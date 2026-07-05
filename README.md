@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0169-majority-element) |
+| [0485-max-consecutive-ones](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0485-max-consecutive-ones) |
 | [2965-find-missing-and-repeated-values](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |

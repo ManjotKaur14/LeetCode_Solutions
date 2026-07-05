@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0001-two-sum) |
+| [0136-single-number](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0485-max-consecutive-ones](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0485-max-consecutive-ones) |
 | [2965-find-missing-and-repeated-values](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/2965-find-missing-and-repeated-values) |
@@ -34,4 +35,8 @@
 |  |
 | ------- |
 | [2965-find-missing-and-repeated-values](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/2965-find-missing-and-repeated-values) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->

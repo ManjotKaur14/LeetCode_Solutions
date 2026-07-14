@@ -67,6 +67,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0189-rotate-array) |
+| [0344-reverse-string](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0344-reverse-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
@@ -86,4 +87,8 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0268-missing-number) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->

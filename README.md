@@ -11,6 +11,7 @@
 | [0054-spiral-matrix](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0075-sort-colors) |
+| [0119-pascals-triangle-ii](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0169-majority-element) |
@@ -73,6 +74,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0053-maximum-subarray) |
+| [0119-pascals-triangle-ii](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0119-pascals-triangle-ii) |
 ## Simulation
 |  |
 | ------- |

@@ -17,6 +17,7 @@
 | [0136-single-number](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0189-rotate-array) |
+| [0229-majority-element-ii](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0485-max-consecutive-ones) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -28,6 +29,7 @@
 | [0073-set-matrix-zeroes](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
@@ -40,11 +42,13 @@
 | ------- |
 | [0075-sort-colors](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0229-majority-element-ii) |
 ## Math
 |  |
 | ------- |

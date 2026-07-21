@@ -104,6 +104,11 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0541-reverse-string-ii) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->

@@ -21,6 +21,7 @@
 | [0189-rotate-array](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0704-binary-search) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -80,6 +81,7 @@
 | [0015-3sum](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0541-reverse-string-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/2149-rearrange-array-elements-by-sign) |

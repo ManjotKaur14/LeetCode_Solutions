@@ -23,6 +23,7 @@
 | [0268-missing-number](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0704-binary-search) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2965-find-missing-and-repeated-values](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table

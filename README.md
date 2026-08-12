@@ -8,6 +8,7 @@
 | [0015-3sum](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0035-search-insert-position) |
+| [0045-jump-game-ii](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0054-spiral-matrix) |
@@ -107,6 +108,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0118-pascals-triangle) |
@@ -166,6 +168,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0055-jump-game) |
 | [0881-boats-to-save-people](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0881-boats-to-save-people) |
 ## Timsort

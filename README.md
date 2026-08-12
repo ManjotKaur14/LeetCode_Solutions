@@ -11,6 +11,7 @@
 | [0048-rotate-image](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -107,6 +108,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0300-longest-increasing-subsequence) |
@@ -164,6 +166,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0055-jump-game) |
 | [0881-boats-to-save-people](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0881-boats-to-save-people) |
 ## Timsort
 |  |

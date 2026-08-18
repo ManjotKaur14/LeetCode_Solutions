@@ -50,6 +50,7 @@
 | [0229-majority-element-ii](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0767-reorganize-string](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0767-reorganize-string) |
 | [1207-unique-number-of-occurrences](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1796-second-largest-digit-in-a-string](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/1796-second-largest-digit-in-a-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/2965-find-missing-and-repeated-values) |
@@ -68,6 +69,7 @@
 | [0217-contains-duplicate](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0268-missing-number) |
+| [0767-reorganize-string](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0767-reorganize-string) |
 | [0881-boats-to-save-people](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0881-boats-to-save-people) |
 ## Counting
 |  |
@@ -75,6 +77,7 @@
 | [0169-majority-element](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0767-reorganize-string](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0767-reorganize-string) |
 ## Math
 |  |
 | ------- |
@@ -144,6 +147,7 @@
 | [0344-reverse-string](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0541-reverse-string-ii](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0541-reverse-string-ii) |
+| [0767-reorganize-string](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0767-reorganize-string) |
 | [1143-longest-common-subsequence](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/1143-longest-common-subsequence) |
 | [1796-second-largest-digit-in-a-string](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/1796-second-largest-digit-in-a-string) |
 ## Stack
@@ -172,9 +176,14 @@
 | [0045-jump-game-ii](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0134-gas-station) |
+| [0767-reorganize-string](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0767-reorganize-string) |
 | [0881-boats-to-save-people](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0881-boats-to-save-people) |
 ## Timsort
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0881-boats-to-save-people) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0767-reorganize-string](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0767-reorganize-string) |
 <!---LeetCode Topics End-->

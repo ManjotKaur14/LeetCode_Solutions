@@ -170,6 +170,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0229-majority-element-ii) |
 ## Greedy
 |  |
 | ------- |

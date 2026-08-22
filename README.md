@@ -85,6 +85,7 @@
 | [0189-rotate-array](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/2965-find-missing-and-repeated-values) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Matrix
 |  |
 | ------- |

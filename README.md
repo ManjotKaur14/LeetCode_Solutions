@@ -32,6 +32,7 @@
 | [0283-move-zeroes](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0485-max-consecutive-ones](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0704-binary-search) |
 | [0881-boats-to-save-people](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0881-boats-to-save-people) |
@@ -50,6 +51,7 @@
 | [0229-majority-element-ii](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0767-reorganize-string](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0767-reorganize-string) |
 | [1207-unique-number-of-occurrences](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1796-second-largest-digit-in-a-string](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/1796-second-largest-digit-in-a-string) |
@@ -156,6 +158,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Queue
 |  |
@@ -194,5 +197,6 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->

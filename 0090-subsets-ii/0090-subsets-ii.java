@@ -8,15 +8,17 @@ class Solution {
         return ans;
     }
     public static void generate(int[] nums, int i,  List<Integer> current, List<List<Integer>> ans){
-        ans.add(new ArrayList<>(current));
-        for(int j=i;j<nums.length;j++){
-            if(j>i && nums[j]==nums[j-1]){
-                continue;
-            }
-            current.add(nums[j]);
-            generate(nums,j+1,current,ans);
-            current.remove(current.size()-1);
-                    }
-
+        if(i==nums.length){
+            ans.add(new ArrayList<>(current));
+            return;
+        }
+        current.add(nums[i]);
+        generate(nums,i+1,current,ans);
+        current.remove(current.size()-1);
+        int idx=i+1;
+        while(idx<nums.length && nums[idx]==nums[idx-1]){
+            idx++;
+        }
+        generate(nums,idx,current,ans);
     }
 }

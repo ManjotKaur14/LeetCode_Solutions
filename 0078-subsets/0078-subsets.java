@@ -1,8 +1,8 @@
 class Solution {
     public List<List<Integer>> subsets(int[] nums) {
         List<List<Integer>> ans=new ArrayList<>();
-        List<Integer> current=new ArrayList<>();
-        generate(nums,0,current,ans);
+        // List<Integer> current=new ArrayList<>();
+        generate(nums,0,new ArrayList<>(),ans);
         return ans;
     }
    public static void  generate(int[] nums,int i,List<Integer> current,List<List<Integer>> ans){

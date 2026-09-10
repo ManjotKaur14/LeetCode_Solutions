@@ -41,6 +41,7 @@
 | [0704-binary-search](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0704-binary-search) |
 | [0881-boats-to-save-people](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0881-boats-to-save-people) |
 | [1207-unique-number-of-occurrences](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/1207-unique-number-of-occurrences) |
+| [1670-design-front-middle-back-queue](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/1670-design-front-middle-back-queue) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2965-find-missing-and-repeated-values](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/2965-find-missing-and-repeated-values) |
@@ -172,6 +173,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [1670-design-front-middle-back-queue](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/1670-design-front-middle-back-queue) |
 ## Quicksort
 |  |
 | ------- |
@@ -212,6 +214,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0203-remove-linked-list-elements) |
+| [1670-design-front-middle-back-queue](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/1670-design-front-middle-back-queue) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -231,4 +234,16 @@
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0051-n-queens) |
+## Design
+|  |
+| ------- |
+| [1670-design-front-middle-back-queue](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/1670-design-front-middle-back-queue) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1670-design-front-middle-back-queue](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/1670-design-front-middle-back-queue) |
+## Data Stream
+|  |
+| ------- |
+| [1670-design-front-middle-back-queue](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/1670-design-front-middle-back-queue) |
 <!---LeetCode Topics End-->

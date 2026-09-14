@@ -53,6 +53,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0268-missing-number) |
@@ -91,6 +92,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -116,6 +118,7 @@
 | [0088-merge-sorted-array](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0541-reverse-string-ii) |
@@ -219,6 +222,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0202-happy-number) |
 ## Recursion
 |  |
 | ------- |

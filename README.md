@@ -37,6 +37,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0485-max-consecutive-ones](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
+| [0523-continuous-subarray-sum](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0704-binary-search) |
@@ -60,6 +61,7 @@
 | [0268-missing-number](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
+| [0523-continuous-subarray-sum](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0767-reorganize-string](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0767-reorganize-string) |
 | [1207-unique-number-of-occurrences](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/1207-unique-number-of-occurrences) |
@@ -96,6 +98,7 @@
 | [0189-rotate-array](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0268-missing-number) |
+| [0523-continuous-subarray-sum](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0523-continuous-subarray-sum) |
 | [2965-find-missing-and-repeated-values](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Matrix
@@ -255,5 +258,10 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->

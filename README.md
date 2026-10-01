@@ -32,6 +32,7 @@
 | [0189-rotate-array](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0229-majority-element-ii) |
+| [0239-sliding-window-maximum](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0300-longest-increasing-subsequence) |
@@ -188,6 +189,7 @@
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1670-design-front-middle-back-queue](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/1670-design-front-middle-back-queue) |
 ## Quicksort
@@ -219,6 +221,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0239-sliding-window-maximum) |
 | [0767-reorganize-string](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0767-reorganize-string) |
 ## Monotonic Stack
 |  |
@@ -278,6 +281,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0239-sliding-window-maximum) |
 | [1004-max-consecutive-ones-iii](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## String Matching
 |  |
@@ -295,4 +299,12 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->

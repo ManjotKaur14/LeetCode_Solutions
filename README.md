@@ -46,6 +46,7 @@
 | [0881-boats-to-save-people](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0881-boats-to-save-people) |
 | [1004-max-consecutive-ones-iii](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/1207-unique-number-of-occurrences) |
+| [1331-rank-transform-of-an-array](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1670-design-front-middle-back-queue](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/1670-design-front-middle-back-queue) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -69,6 +70,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0767-reorganize-string](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0767-reorganize-string) |
 | [1207-unique-number-of-occurrences](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/1207-unique-number-of-occurrences) |
+| [1331-rank-transform-of-an-array](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1796-second-largest-digit-in-a-string](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/1796-second-largest-digit-in-a-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
@@ -89,6 +91,7 @@
 | [0268-missing-number](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0767-reorganize-string](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0767-reorganize-string) |
 | [0881-boats-to-save-people](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0881-boats-to-save-people) |
+| [1331-rank-transform-of-an-array](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/1331-rank-transform-of-an-array) |
 ## Counting
 |  |
 | ------- |

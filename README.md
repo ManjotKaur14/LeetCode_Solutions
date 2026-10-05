@@ -26,6 +26,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0169-majority-element) |
@@ -57,6 +58,7 @@
 | [0001-two-sum](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0202-happy-number) |
@@ -146,6 +148,7 @@
 | [0055-jump-game](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0119-pascals-triangle-ii) |
+| [0139-word-break](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0139-word-break) |
 | [0300-longest-increasing-subsequence](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/1143-longest-common-subsequence) |
 ## Simulation
@@ -175,6 +178,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0139-word-break](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -310,4 +314,16 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0239-sliding-window-maximum) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->

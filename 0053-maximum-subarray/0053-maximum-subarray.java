@@ -4,12 +4,11 @@ class Solution {
         int max=Integer.MIN_VALUE;
         for(int x:nums){
             sum+=x;
-            max=Math.max(max,sum);
+            max=Math.max(sum,max);
             if(sum<0){
                 sum=0;
             }
         }
-        
-        return  max;
+        return max;
     }
 }

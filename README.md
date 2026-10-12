@@ -49,6 +49,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1480-running-sum-of-1d-array](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1670-design-front-middle-back-queue](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/1670-design-front-middle-back-queue) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -284,6 +285,7 @@
 | [0523-continuous-subarray-sum](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1480-running-sum-of-1d-array](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Pigeonhole Principle
 |  |
 | ------- |

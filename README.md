@@ -8,6 +8,7 @@
 | [0015-3sum](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0046-permutations) |
@@ -172,6 +173,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |

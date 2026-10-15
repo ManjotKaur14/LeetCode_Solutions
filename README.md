@@ -146,6 +146,7 @@
 | [0202-happy-number](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0344-reverse-string) |
+| [0443-string-compression](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0541-reverse-string-ii) |
 | [0881-boats-to-save-people](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -195,6 +196,7 @@
 | [0242-valid-anagram](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0443-string-compression](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0541-reverse-string-ii) |
 | [0767-reorganize-string](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0767-reorganize-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |

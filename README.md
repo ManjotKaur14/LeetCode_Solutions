@@ -29,6 +29,7 @@
 | [0134-gas-station](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0169-majority-element) |
@@ -161,6 +162,7 @@
 | [0118-pascals-triangle](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0139-word-break](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/1143-longest-common-subsequence) |
 ## Simulation

@@ -49,6 +49,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0704-binary-search) |
+| [0713-subarray-product-less-than-k](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0881-boats-to-save-people](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -188,6 +189,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0704-binary-search) |
+| [0713-subarray-product-less-than-k](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1004-max-consecutive-ones-iii](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## String
@@ -300,6 +302,7 @@
 | [0303-range-sum-query-immutable](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0713-subarray-product-less-than-k](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Pigeonhole Principle
@@ -313,6 +316,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0713-subarray-product-less-than-k](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/ManjotKaur14/LeetCode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## String Matching
 |  |

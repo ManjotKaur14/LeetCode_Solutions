@@ -1,6 +1,6 @@
 class Solution {
     public boolean uniqueOccurrences(int[] arr) {
-         HashMap<Integer,Integer> map=new HashMap<>();
+        HashMap<Integer,Integer> map=new HashMap<>();
          for(int i=0;i<arr.length;i++){
             int c=arr[i];
             if(map.containsKey(c)){
